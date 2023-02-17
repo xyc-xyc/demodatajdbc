@@ -1,1 +1,1 @@
-# demodatajdbc
+# demo spring data jdbc
