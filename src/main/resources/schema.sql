@@ -8,8 +8,8 @@ create table Book
 create table Author
 (
    id bigint auto_increment not null,
-   book_key bigint not null,
-   book varchar(255),
+   book_key integer not null,
+   book bigint not null,
    name varchar(255) not null,
    primary key(id)
 );
